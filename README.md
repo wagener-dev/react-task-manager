@@ -20,7 +20,7 @@ A modern task management web application built with React.
 
 ## 📸 Preview
 
-(Add screenshot here later)
+![App Screenshot](screenshot.png)(screenshot2.png)
 
 ## 📦 Installation
 
@@ -31,7 +31,7 @@ npm run dev
 
 ## 🌍 Live Demo
 
-(Will be added after deployment)
+(https://inquisitive-kangaroo-7e952b.netlify.app/)
 
 ## 💡 What I Learned
 
@@ -44,4 +44,3 @@ npm run dev
 
 Bianca Wagener
 
-![App Screenshot](screenshot.png)(screenshot2.png)
