@@ -42,4 +42,6 @@ npm run dev
 
 ## 📌 Author
 
-Your Name
+Bianca Wagener
+
+![App Screenshot](screenshot.png)(screenshot2.png)
